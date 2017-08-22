@@ -1,0 +1,12 @@
+{
+  "name": "calliope-rover",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Calliope Rover",
+  "author": "Peter (RoboterFreak) Recktenwald",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "calliope-mini/microbit#v2.0.0-rc7-calliope-1.0.1"
+  }
+}
